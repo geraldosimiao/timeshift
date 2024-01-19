@@ -21,7 +21,7 @@ Summary:        System restore tool for Linux
  
 	
 License:        GPLv3+ or LGPLv3+	
-URL:            https://github.com/linuxmint/timeshift	
+URL:            https://github.com/geraldosimiao/timeshift	
 Source0:        %{url}/archive/refs/tags/%{version}.tar.gz
 	
  	
